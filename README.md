@@ -1,9 +1,13 @@
 SteamTracks Changelog
 ===========
 
+#### 2014-02-23
+
+- Changed the bot distribution system to be properly queued. This should reduce missed friend requests from your bot to a minimum
+
 #### 2014-02-22
 
-- Updated the Bot infrastructure, Dota 2 profile should now be gathered again as expected, this update will take around 24 hours to fully propagate
+- Updated the bot infrastructure, Dota 2 profile should now be gathered again as expected, this update will take around 24 hours to fully propagate
 - Reduced the Dota 2 profile update from 12 hours to every 24 hours. This change was necessary in order to keep server costs viable
 
 
