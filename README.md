@@ -1,6 +1,10 @@
 SteamTracks Changelog
 ===========
 
+#### 2014-02-28
+
+- When users join SteamTracks they will now be asked to add the bot and not the other way around. This should reduce or eliminate the problem where users don't receive the bot's friend request
+
 #### 2014-02-23
 
 - Changed the bot distribution system to be properly queued. This should reduce missed friend requests from your bot to a minimum
