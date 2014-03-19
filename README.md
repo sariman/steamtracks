@@ -1,6 +1,11 @@
 SteamTracks Changelog
 ===========
 
+#### 2014-03-19
+
+- Fixed the issue with some dota 2 profiles not getting updated
+- Moved the dota 2 profile updates to 1:30am-3:00am UTC for all users
+
 #### 2014-02-28
 
 - When users join SteamTracks they will now be asked to add the bot and not the other way around. This should reduce or eliminate the problem where users don't receive the bot's friend request
